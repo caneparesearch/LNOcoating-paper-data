@@ -1,9 +1,9 @@
-LNOcoating-paper-data
+#LNOcoating-paper-data
 
-Supplementary Data for "On the Active Components in the Crystalline Li-Nb-O and Li-Ta-O Coating Materials"
+Supplementary Data for "On the Active Components in the Crystalline Li-Nb-O and Li-Ta-O Coating Materials", Chem. Mater. 2023 DOI: [10.1021/acs.chemmater.xxxxx](https://doi.org/10.1021/acs.chemmater.xxxxx).
 
-Antisite-cif: Cif files of LiMO3 and Li3MO4 (M=Nb, Ta) with antisite defect complex (4 Vac_Li + 1 M_Li), where all possible Li vacancy sites are assigned with fractional occupancies. Distinct configurations are generated based on the cif files.
+The following folders contains:
 
-DFE-point: Defect formation energies of point defects (Vac_Li and M_Li) in LiMO3 and Li3MO4, including chemical potentials extracted from phase diagrams and correction energies.
-
-NEB: Li-ion migration pathways in the environment of antisite defect complex within LiMO3 and Li3MO4. For Li3TaO4 with 3 unique Li sites, 11 pathways of low-vacancy limit are also attached.
+- Antisite-cif: Cif files of computed models of LiMO<sub>3</sub> and Li<sub>3</sub>MO<sub>4</sub> (M=Nb, Ta) containing complex antisite defecst (4 Vac<sub>Li</sub> + 1 M<sub>Li</sub>).
+- DFE-point: Defect formation energies of point defects (Vac<sub>Li</sub> and M<sub>Li</sub>) in LiMO<sub>3</sub> and Li<sub>3</sub>MO<sub>4</sub>, including the chemical potentials extracted from the phase diagrams, as well as additional correction energy terms.
+- NEB: Li-ion migration pathways LiMO<sub>3</sub> and Li<sub>3</sub>MO<sub>4</sub>, in the environment of complex antisite defects. For Li<sub>3</sub>TaO<sub>4</sub> eleven pathways of low-vacancy limit are also attached.
