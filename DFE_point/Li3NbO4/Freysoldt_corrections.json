@@ -1,0 +1,29 @@
+{
+  "Li3NbO4/vac_1_Li/charge_0": {
+    "charge_correction": 0.0
+  },
+  "Li3NbO4/vac_1_Li/charge_-1": {
+    "charge_correction": 0.11160474673327506
+  },
+  "Li3NbO4/vac_1_Li/charge_1": {
+    "charge_correction": 0.034289024532810984
+  },
+  "Li3NbO4/as_1_Nb_on_Li/charge_3": {
+    "charge_correction": 0.9188634157395831
+  },
+  "Li3NbO4/as_1_Nb_on_Li/charge_0": {
+    "charge_correction": 0.0
+  },
+  "Li3NbO4/as_1_Nb_on_Li/charge_2": {
+    "charge_correction": 0.4306987325426934
+  },
+  "Li3NbO4/as_1_Nb_on_Li/charge_-1": {
+    "charge_correction": 0.03495007222522872
+  },
+  "Li3NbO4/as_1_Nb_on_Li/charge_1": {
+    "charge_correction": 0.13157328131562473
+  },
+  "Li3NbO4/as_1_Nb_on_Li/charge_4": {
+    "charge_correction": 1.5583840974922754
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "LiNbO3/vac_1_Li/charge_0": {
+    "charge_correction": 0.0
+  },
+  "LiNbO3/vac_1_Li/charge_-1": {
+    "charge_correction": 0.05414038979604563
+  },
+  "LiNbO3/vac_1_Li/charge_1": {
+    "charge_correction": -0.01432745209195975
+  },
+  "LiNbO3/as_1_Nb_on_Li/charge_3": {
+    "charge_correction": 0.4307561338609898
+  },
+  "LiNbO3/as_1_Nb_on_Li/charge_0": {
+    "charge_correction": 0.0
+  },
+  "LiNbO3/as_1_Nb_on_Li/charge_2": {
+    "charge_correction": 0.21850708718701223
+  },
+  "LiNbO3/as_1_Nb_on_Li/charge_-1": {
+    "charge_correction": -0.0025804703044364913
+  },
+  "LiNbO3/as_1_Nb_on_Li/charge_1": {
+    "charge_correction": 0.07660963194219736
+  },
+  "LiNbO3/as_1_Nb_on_Li/charge_4": {
+    "charge_correction": 0.7155014300557038
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "LiTaO3/vac_1_Li/charge_0": {
+    "charge_correction": 0.0
+  },
+  "LiTaO3/vac_1_Li/charge_-1": {
+    "charge_correction": 0.05733707978685844
+  },
+  "LiTaO3/vac_1_Li/charge_1": {
+    "charge_correction": 0.0158891010442396
+  },
+  "LiTaO3/as_1_Ta_on_Li/charge_3": {
+    "charge_correction": 0.46764809086608344
+  },
+  "LiTaO3/as_1_Ta_on_Li/charge_0": {
+    "charge_correction": 0.0
+  },
+  "LiTaO3/as_1_Ta_on_Li/charge_2": {
+    "charge_correction": 0.23603073228272087
+  },
+  "LiTaO3/as_1_Ta_on_Li/charge_-1": {
+    "charge_correction": 0.0006089669459162783
+  },
+  "LiTaO3/as_1_Ta_on_Li/charge_1": {
+    "charge_correction": 0.07968915742012575
+  },
+  "LiTaO3/as_1_Ta_on_Li/charge_4": {
+    "charge_correction": 0.7857746789259707
+  }
+}
