@@ -1,4 +1,4 @@
-#LNOcoating-paper-data
+# LNOcoating-paper-data
 
 Supplementary Data for "On the Active Components in the Crystalline Li-Nb-O and Li-Ta-O Coating Materials", Chem. Mater. 2023 DOI: [10.1021/acs.chemmater.xxxxx](https://doi.org/10.1021/acs.chemmater.xxxxx).
 
